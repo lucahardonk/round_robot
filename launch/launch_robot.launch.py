@@ -11,6 +11,8 @@ from launch_ros.actions import Node
 from launch.actions import RegisterEventHandler
 from launch.event_handlers import OnProcessStart
 
+from launch_ros.actions import Node
+
 
 def generate_launch_description():
 
